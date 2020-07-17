@@ -1,0 +1,23 @@
+body{
+    background-color: #F1F0F0;
+}
+.xyz{
+    height: 300px;
+}
+
+.alert{
+    margin-left: 3%;
+}
+
+.chart-card {
+    height: 250px;
+}
+
+.negi {
+    color: red;
+}
+
+.pos {
+    color: green;
+}
+
